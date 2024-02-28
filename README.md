@@ -1,5 +1,5 @@
 # 74
-JavaScript:
+# JavaScript:
 function greet(name) {
   console.log("Hello, " + name + "!");
 }
