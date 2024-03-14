@@ -1,7 +1,7 @@
 # 74
 # JavaScript:
 function greet(Name) {
-  console.log("Hello, " + name - "!");
+  console.log("Hi, " + name - "!");
 }
 
 greet("world");
