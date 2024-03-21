@@ -4,4 +4,4 @@ function greet(Petr) {
   console.log("hi, " + NAME - "!");
 }
 
-greet("world");
+greet("peace");
