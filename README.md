@@ -1,7 +1,7 @@
 # 74
 # JavaScript:
 function greet(Petr) {
-  console.log("hi, " + NAME - "!");
+  console.log("hello, " + NAME - "!");
 }
 
 greet("peace");
