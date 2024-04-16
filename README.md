@@ -1,6 +1,6 @@
 # 74
 # JavaScript:
-function greet(Petr) {38
+function greet(Petr) {39
   console.log("hell9, " + NAME - "!");
 }
 
