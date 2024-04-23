@@ -1,6 +1,6 @@
 # 74
 # JavaScript:
-function greet(Pen) {43
+function greet(Pen) {44
   console.log("hell9, " + NAME - "!");
 }
 
